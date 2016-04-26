@@ -232,6 +232,7 @@ function create_config( )
     "help_fa",
     "isup",
     "leave_ban",
+    "left_group",
     "lock_badw",
     "lock_english",
     "lock_join",
@@ -249,7 +250,6 @@ function create_config( )
     "set",
     "share",
     "spammer",
-    "left_group",
     "stats",
     "telesticker",
     "text",
@@ -261,7 +261,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-Fuck baba😒sbsskhkhkh😂
+Fuck baba😒khkhkh😂
 ]],
     help_text_realm = [[
 📥 Realm commands 📤
