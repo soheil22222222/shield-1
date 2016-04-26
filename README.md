@@ -21,4 +21,4 @@ chmod +x launch.sh
 
 --------------------------------
 
-* *Sudo:Sargardan(https://telegram.me/xxx_sargardan_xxx)*
+* *Sudo:Sargardan (https://telegram.me/xxx_sargardan_xxx)*
