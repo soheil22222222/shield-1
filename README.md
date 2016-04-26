@@ -22,3 +22,5 @@ chmod +x launch.sh
 --------------------------------
 
 * *Sudo: [Sargardan](https://telegram.me/xxx_sargardan_xxx)*
+
+* *Channel: [Shield-Team](https://telegram.me/Shield-Team)*
