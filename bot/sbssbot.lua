@@ -249,7 +249,7 @@ function create_config( )
     "set",
     "share",
     "spammer",
-    "left-group",
+    "left_group",
     "stats",
     "telesticker",
     "text",
